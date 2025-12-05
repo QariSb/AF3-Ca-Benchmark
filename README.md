@@ -82,7 +82,3 @@ AF3 predicts global folds well, but **local ion placement accuracy does not alwa
 
 ---
 
-## 📈 Figures (Placeholders)
-
-Create a `figures/` folder and add plots such as:
-
